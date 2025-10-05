@@ -1,0 +1,5 @@
+{
+  "name": "SonifAI Formula Generator",
+  "description": "An open-source tool to analyze music from a YouTube link or audio file, convert it into a structured 'formula', allow for creative variations, and generate descriptive prompts for AI music generators like Suno AI.",
+  "requestFramePermissions": []
+}
